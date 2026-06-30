@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LPG Customer Complaint Resolution Portal",
+  "description": "Standardized regional complaint management system for Oil Marketing Companies (OMCs). Recommends ready-made customer communications, root-cause notes, and resolution history files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
